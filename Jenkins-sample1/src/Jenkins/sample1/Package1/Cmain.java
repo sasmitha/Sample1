@@ -6,7 +6,7 @@ public class Cmain {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// Success page
+		// Success page check
 		
 
 	}
